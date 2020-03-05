@@ -1,0 +1,9 @@
+{
+  "name": "webescola",
+  "version": "1.0.0",
+  "description": "SistemaWebEscola",
+  "main": "index.jsp",
+  "repository": "https://github.com/ckhronus/sistemaescola",
+  "author": "Ismayk Marques",
+  "license": "MIT"
+}
